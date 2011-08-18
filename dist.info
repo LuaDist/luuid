@@ -1,0 +1,19 @@
+--- This dist file is part of LuaDist project
+-- status:
+
+name="luuid"
+version="5.1"
+
+desc = "A library for UUID generation"
+
+authors = "Luiz Henrique de Figueiredo"
+homepage = "http://www.tecgraf.puc-rio.br/~lhf/ftp/lua/#luuid"
+license = "Public domain"
+maintainer = "Peter Kapec"
+
+dependencies = {
+	"lua ~> 5.1",
+	Linux = {
+		"uuid-dev >- 2.16"
+	}
+}
