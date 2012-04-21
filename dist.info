@@ -2,12 +2,12 @@
 -- status:
 
 name="luuid"
-version="5.1"
+version="5.1.0.20101118"
 
 desc = "A library for UUID generation"
 
-authors = "Luiz Henrique de Figueiredo"
-homepage = "http://www.tecgraf.puc-rio.br/~lhf/ftp/lua/#luuid"
+author = "Luiz Henrique de Figueiredo"
+url = "http://www.tecgraf.puc-rio.br/~lhf/ftp/lua/#luuid"
 license = "Public domain"
 maintainer = "Peter Kapec"
 
